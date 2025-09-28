@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/kunal-vo/javascript-nextjs",
+      "type": "http"
+    }
+  }
+}
